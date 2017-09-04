@@ -1,0 +1,21 @@
+{
+  "name": "cordova-plugin-share",
+  "version": "0.0.1",
+  "description": "Share natively with this cordova plugin",
+  "cordova": {
+    "id": "cordova-plugin-share",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manmartinez/cordova-plugin-share.git"
+  },
+  "keywords": [
+    "cordova",
+    "share"
+  ],
+  "license": "Apache-2.0"
+}
