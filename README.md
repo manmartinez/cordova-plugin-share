@@ -1,13 +1,15 @@
 cordova-plugin-share
 ====================
 
+This plugin is a fork from [markmarijnissen/cordova-plugin-share](https://github.com/markmarijnissen/cordova-plugin-share) all credit goes to Mark Marijnissen.
+
 Cordova Plugin to open native "share" popup in Android and iOS
 
 ### Install
 
 In your phonegap/cordova project, type:
 
-`cordova plugins add https://github.com/markmarijnissen/cordova-plugin-share.git`
+`cordova plugins add https://github.com/manmartinez/cordova-plugin-share.git`
 
 ### Usage
 
